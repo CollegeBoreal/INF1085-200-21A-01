@@ -77,4 +77,4 @@ http://jodies.de/ipcalc?host=10.13.0.0&mask1=20
        Hosts/Net: 4094                  (Private Internet)
 
 
-<img src="images/Rubrique-Linux.png" width= height= > </img>
+<img src="images/Rubrique-Linux.png" width=1097 height=762 > </img>

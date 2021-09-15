@@ -75,3 +75,6 @@ http://jodies.de/ipcalc?host=10.13.0.0&mask1=20
        HostMin:   10.13.0.1             00001010.00001101.0000 0000.00000001
        HostMax:   10.13.15.254          00001010.00001101.0000 1111.11111110
        Hosts/Net: 4094                  (Private Internet)
+
+
+<img src="images/Rubrique-Linux.png" width= height= ></img>

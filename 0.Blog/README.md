@@ -34,7 +34,7 @@ Astuces:
 
 |:hash:| :id:      |   Blog (https://wordpress.com)                                                    | [VPN](https://github.com/CollegeBoreal/Tutoriels/tree/main/V.VPN)  | [Check](README.md#legende) | [Reseau Externe](README.md#one-reseau-externe)|
 |------|-----------|-----------------------------------------------------------------------------------|------|--------------------|---------------|
-| 01   | 300106677 | https://linux171117329.wordpress.com                                              | :x:  | :x:                | 10.13.237.?   |
+| 01   | 300106677 | https://linux171117329530604526.wordpress.com/                                    | :x:  | :x:                | 10.13.237.?   |
 | 02   | 300117811 | https://ht69446081.wordpress.com                                                  | :x:  | :x:                | 10.13.237.?   |
 | 03   | 300121460 | https://linux974401364.wordpress.com                                              | :x:  | :x:                | 10.13.237.?   |
 | 04   | 300122014 | https://htttps614541743.wordpress.com                                             | :x:  | :x:                | 10.13.237.?   |

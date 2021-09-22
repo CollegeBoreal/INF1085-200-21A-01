@@ -34,7 +34,7 @@ Qu'est-ce que le [Master Boot Record](https://en.wikipedia.org/wiki/Master_boot_
 
 Le bon vieux metal qui nous détourne de la virtualisation.
 
-:m: Bare Metal(https://github.com/CollegeBoreal/Tutoriels/tree/master/P.Plateformes/0.Metal)
+:m: Bare Metal(https://github.com/CollegeBoreal/Tutoriels/tree/main/P.Plateformes/0.Metal)
 
 
 # Références

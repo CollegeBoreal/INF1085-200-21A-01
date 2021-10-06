@@ -34,9 +34,9 @@ Astuces:
 
 |:hash:| :id:      |   Blog (https://wordpress.com)                                                    | [VPN](https://github.com/CollegeBoreal/Tutoriels/tree/main/V.VPN)  | [Check](README.md#legende) | [Reseau Externe](README.md#one-reseau-externe)| Baie |
 |------|-----------|-----------------------------------------------------------------------------------|------|--------------------|---------------|----|
-| 01   | 300106677 | https://linux171117329530604526.wordpress.com/                                    | :heavy_check_mark:  | :x:                | 10.13.237.37   | 37 |
-| 02   | 300117811 | https://ht69446081.wordpress.com                                                  | :x:  | :x:                | 10.13.23      7.?   |             
-| 03   | 300121460 | https://linux974401364.wordpress.com                                              | :x:  | :x:                | 10.13.237.31   | 31 | 
+| 01   | 300106677 | https://linux171117329530604526.wordpress.com/                                    | :heavy_check_mark:  | :heavy_check_mark:                | 10.13.237.37   | 37 |
+| 02   | 300117811 | https://ht69446081.wordpress.com                                                  | :x:  | :heavy_check_mark:                | 10.13.237.34   | 34 |            
+| 03   | 300121460 | https://linux974401364.wordpress.com                                              | :heavy_check_mark:  | :heavy_check_mark:                | 10.13.237.31   | 31 | 
 | 04   | 300122014 | https://htttps614541743.wordpress.com                                             | :x:  | :x:                | 10.13.237.28   |28
 | 05   | 300115206 | https://jojo975297757.wordpress.com                                               | :x:  | :x:                | 10.13.237.?   |?|
 

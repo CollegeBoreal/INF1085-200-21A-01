@@ -34,7 +34,7 @@ Astuces:
 
 |:hash:| :id:      |   Blog (https://wordpress.com)                                                    | [VPN](https://github.com/CollegeBoreal/Tutoriels/tree/main/V.VPN)  | [Check](README.md#legende) | [Reseau Externe](README.md#one-reseau-externe)| Baie |
 |------|-----------|-----------------------------------------------------------------------------------|------|--------------------|---------------|----|
-| 01   | 300106677 - <image src="https://avatars0.githubusercontent.com/u/62551735?s=400&v=4" width=20 height=20></image> | https://linux171117329530604526.wordpress.com/                                    | :heavy_check_mark:  | :heavy_check_mark:                | 10.13.237.37   | 37 |
+| 01   | 300106677 - <image src="https://avatars.githubusercontent.com/u/71027895?v=4" width=20 height=20></image> | https://linux171117329530604526.wordpress.com/                                    | :heavy_check_mark:  | :heavy_check_mark:                | 10.13.237.37   | 37 |
 | 02   | 300117811 | https://ht69446081.wordpress.com                                                  | :x:  | :heavy_check_mark:                | 10.13.237.34   | 34 |            
 | 03   | 300121460 | https://linux974401364.wordpress.com                                              | :heavy_check_mark:  | :heavy_check_mark:                | 10.13.237.31   | 31 | 
 | 04   | 300122014 | https://htttps614541743.wordpress.com                                             | :x:  | :x:                | 10.13.237.28   |28
@@ -46,7 +46,7 @@ Astuces:
 #### Example
 | :id:      |   Blog (https://wordpress.com)                          |
 |-----------|---------------------------------------------------------|
-| 300098957 | https://setrar.wordpress.com/2015/01/10/bitstamp/       | 
+| 300098957  <image src="https://avatars0.githubusercontent.com/u/62551735?s=400&v=4" width=20 height=20></image> | https://setrar.wordpress.com/2015/01/10/bitstamp/       | 
 
 
 ## References

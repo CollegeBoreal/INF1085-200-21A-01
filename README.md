@@ -1,6 +1,33 @@
 # INF1085-200-21A-01
 Administration Linux
 
+```
+Brice Robert vous invite à une réunion Zoom planifiée.
+
+Sujet : CBCR  INF1085/200/1/Administration Linux/21A
+Heure : Il s’agit d’une réunion récurrente Se rencontrer n’importe quand
+
+Participer à la réunion Zoom
+https://collegeboreal.zoom.us/j/85257019903?pwd=UVZHMmU3QzQvWDZncUFHQlFTZVZ3dz09
+
+Mot de passe : 7q37RdeRcz
+
+Une seule touche sur l’appareil mobile
++17789072071,,85257019903# Canada
++12042727920,,85257019903# Canada
+
+Composez un numéro en fonction de votre emplacement
+        +1 778 907 2071 Canada
+        +1 204 272 7920 Canada
+        +1 438 809 7799 Canada
+        +1 587 328 1099 Canada
+        +1 647 374 4685 Canada
+        +1 647 558 0588 Canada
+        855 703 8985 Canada Numéro gratuit
+ID de réunion : 852 5701 9903
+Trouvez votre numéro local : https://collegeboreal.zoom.us/u/kcO3V2vthZ
+```
+
 ## :date: [Épreuves](.epreuves)
 
 ## :one: [Devoirs](Devoirs)

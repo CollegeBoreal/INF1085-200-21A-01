@@ -30,7 +30,7 @@ ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQD2pLhMqFGKffSdYvNCMAyM7598oBY+m/3q5AMXmb7I
 
 |:hash:| :id:      | Interne                 | ssh              | Docker Engine    | Unit :hash: |
 |------|-----------|-------------------------|------------------|------------------|-------------|
-| 00   | 300098957 - <image src="https://avatars0.githubusercontent.com/u/62551735?s=400&v=4" width=20 height=20></image> | `ssh ubuntu@10.13.237.9` |:heavy_check_mark:|:heavy_check_mark: |
+| 00   | 300098957 - <image src="https://avatars0.githubusercontent.com/u/62551735?v=4" width=20 height=20></image> | `ssh ubuntu@10.13.237.9` |:heavy_check_mark:|:heavy_check_mark: |
 | 01   | 300106677 - <image src="https://avatars.githubusercontent.com/u/71027895?v=4" width=20 height=20></image> | `ssh lenoaldolinux@10.13.237.37`   |:x:| :x: | :three::seven:|
 | 02   | 300121460 - <image src="https://avatars.githubusercontent.com/u/71027883?v=4" width=20 height=20></image> | `ssh dave21@10.13.237.31`   |:x:| :x: | :three::one:|
 | 03   | 300117811 - <image src="https://avatars.githubusercontent.com/u/71027809?v=4" width=20 height=20></image> | `ssh sio-mh@10.13.237.34`   |:x:| :x: | :three::four:|

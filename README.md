@@ -57,10 +57,10 @@ Trouvez votre numéro local : https://collegeboreal.zoom.us/u/kcO3V2vthZ
 |03|21-09-21|[1.Metal](./1.Metal)                            | Metal                                   |                   |
 |04|21-09-27|                                                |                                         |                   |
 |05|21-10-04|[2.keys](./2.keys)                              |                                         |                   |
-|06|21-10-11|[3.Virtualization](./3.Virtualization)          | AWS                                     | Chapitre 2        |
-|07|21-10-18|                                                |                                         |                   |
+|06|21-10-11|[3.ENV](3.ENV)                                  |                                         |                   |
+|07|21-10-18|[4.Linux](5.Linux)                              | Boot                                    | Chapitre 3, 4, 5  |
 |08|21-10-25| Autumn Break                                   |                                         |                   |
-|09|21-11-01|[5.Linux](5.Linux)                              | Boot                                    | Chapitre 3, 4, 5  |
+|06|21-10-11|[5.Virtualization](./5.Virtualization)          | AWS                                     | Chapitre 2        |
 |10|21-11-08|[6.Shell](6.Shell)                              |                                         |                   |
 |11|21-11-15|                                                |                                         |                   |
 |12|21-11-22|[7.Archive](7.Archive)                          |                                         |  Chapitre 4       |

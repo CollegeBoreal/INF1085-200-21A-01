@@ -6,7 +6,7 @@ Fichier .bashrc (profile)
 
 :two: Modifier votre prompt pour afficher `[moi@ip-10-13-237-16 /home/moimeme]$`
 
-* Pemissions
+* Permissions
 
 https://www.tutorialspoint.com/unix/unix-file-permission.htm
 

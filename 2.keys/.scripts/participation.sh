@@ -34,7 +34,7 @@ echo "|:hash:| Boréal :id:                | Interne            | ssh | Docker E
 echo "|------|----------------------------|--------------------|-----|---------------|"
 
 i=0
-?
+
 for id in "${ETUDIANTS[@]}"
 do
    VERSION=`ssh -i ~/.ssh/b300098957@ramena.pk \

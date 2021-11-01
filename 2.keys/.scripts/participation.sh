@@ -50,7 +50,7 @@ do
         -o StrictHostKeyChecking=no \
         -o PasswordAuthentication=no \
         -o ConnectTimeout=5 ${SERVERS[${i}]} systemctl status docker 2>/dev/null`
-   OKI="| ${i} | ${id} - <image src='https://https://avatars.githubusercontent.com/u/${AVATARS[$i]}?s=460&v=4' width=20 height=20></image> | \`ssh ${SERVERS[$i]}\` | :heavy_check_mark: | :tada: | "
+   OKI="| ${i} | ${id} - <image src='https://avatars.githubusercontent.com/u/${AVATARS[$i]}?s=460&v=4' width=20 height=20></image> | \`ssh ${SERVERS[$i]}\` | :heavy_check_mark: | :tada: | "
    OK="| ${i} | ${id} - <image src='https://avatars.githubusercontent.com/u/${AVATARS[$i]}?s=460&v=4' width=20 height=20></image> | \`ssh ${SERVERS[$i]}\` | :heavy_check_mark: | :x: | "
    KO="| ${i} | ${id} - <image src='https://avatars.githubusercontent.com/u/${AVATARS[$i]}?s=460&v=4' width=20 height=20></image> | \`ssh ${SERVERS[$i]}\` | :x: | :x: | "
    if [[ $VERSION == *"Ubuntu"* && $DOCKER == *"(running)"* ]]; then

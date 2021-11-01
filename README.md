@@ -58,7 +58,7 @@ Trouvez votre numéro local : https://collegeboreal.zoom.us/u/kcO3V2vthZ
 |04|21-09-27|                                                |                                         |                   |
 |05|21-10-04|[2.keys](./2.keys)                              |                                         |                   |
 |06|21-10-11|[3.ENV](3.ENV)                                  |                                         |                   |
-|07|21-10-18|[4.Linux](5.Linux)                              | Boot                                    | Chapitre 3, 4, 5  |
+|07|21-10-18|[4.Linux](4.Linux)                              | Boot                                    | Chapitre 3, 4, 5  |
 |08|21-10-25| Autumn Break                                   |                                         |                   |
 |06|21-10-11|[5.Virtualization](./5.Virtualization)          | AWS                                     | Chapitre 2        |
 |10|21-11-08|[6.Shell](6.Shell)                              |                                         |                   |

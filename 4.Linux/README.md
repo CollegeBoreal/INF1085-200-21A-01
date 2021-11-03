@@ -55,8 +55,8 @@
 
 |   Feature                                                           | Chapter                                       |
 |---------------------------------------------------------------------|-----------------------------------------------|
-| :+1: Create, delete, and modify local user accounts                 |  `useradd`, groupadd                           |
-| :+1: Create, delete, and modify local groups and group memberships  |                                               |
+| :+1: Create, delete, and modify local user accounts                 |  `useradd`                                    |
+| :+1: Create, delete, and modify local groups and group memberships  |  `usermod` --append --groups                  |
 | Manage system-wide environment profiles                             |                                               |
 | :+1: Manage template user environment                               | `.bashrc`                                     |
 | Configure user resource limits                                      |                                               |

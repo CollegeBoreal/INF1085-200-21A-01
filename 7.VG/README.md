@@ -1,5 +1,19 @@
-# Volume Group
+# Volume && Archive
 
+## Archive
+
+
+Linux In Action: Chapitre 4
+
+* Trouver un groupe de fichier (i.e. .sql) en utilisant l'utilitaire `find`
+
+* en créer un fichier compressé avec l'utilitaire `tar` 
+
+* copier le fichier sur votre serveur Linux `scp`
+
+* décompresser le fichier sur le serveur linux
+
+## Volume Group
 
 https://www.digitalocean.com/community/tutorials/how-to-use-lvm-to-manage-storage-devices-on-ubuntu-16-04
 

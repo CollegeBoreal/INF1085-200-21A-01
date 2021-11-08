@@ -49,3 +49,7 @@ sda                       273.4G disk
   ├─ubuntu--vg-ubuntu--lv  67.9G lvm   67.9G ext4         12.4G     9% /
   └─ubuntu--vg-iscsi--lv   67.9G lvm                                   
 ```
+
+# References
+
+https://unix.stackexchange.com/questions/259193/what-is-a-block-device

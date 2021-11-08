@@ -24,10 +24,10 @@
 | :+1: Use input-output redirection (e.g. >, >>, \| `pipe`, 2>)       | `2>&1`                                              |
 |      Analyze text using basic regular expressions                   |                                                     |
 | :+1: Archive, backup, compress, unpack, and uncompress files        | `tar` $4.4.2                                        |
-| :+1: Create, delete, copy, and move files and directories           | `mkdir`,`rmdir`,`cd`,`rm`,`mv`,`stat` $1.2.3   |
-| Create and manage hard and soft links                          |                                                     |
+| :+1: Create, delete, copy, and move files and directories           | `mkdir`,`rmdir`,`cd`,`rm`,`mv`,`stat` $1.2.3        |
+| Create and manage hard and soft links                               | `ln`                                                |
 | :+1: List, set, and change standard file permissions                | `ls`, `chmod` $4.4.4                                |
-| :+1: Read, and use system documentation                              `man`, `info` $1.3                                  |
+| :+1: Read, and use system documentation                             | `man`, `info` $1.3                                  |
 | :+1: Manage access to the root account                              | `sudo`, `su` $1.2.6                                 |
 
 #### Operation of Running Systems – 20%
@@ -46,9 +46,9 @@
 | Verify the integrity and availability of key processes              |                                               |
 | Change kernel runtime parameters, persistent and non-persistent     |                                               |
 | Use scripting to automate system maintenance tasks                  |                                               |
-| Manage the startup process and services (In Services Configuration) |                                               |
+| Manage the startup process and services (In Services Configuration) |  `systemctl enable`                           |
 | List and identify SELinux/AppArmor file and process contexts        |                                               |
-| Manage Software                                                     |                                               |
+| Manage Software                                                     |  `apt-get, dpkg`                              |
 | Identify the component of a Linux distribution that a file ....     |                                               |
 
 #### User and Group Management – 10%

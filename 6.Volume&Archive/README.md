@@ -15,4 +15,6 @@ Linux In Action: Chapitre 4
 
 ## Volume Group et LVM
 
-Exercice creer son propre [`LVM`](lvm.md)
+* Exercice creer son propre [`LVM`](lvm.md)
+
+* [`Udev`](udev.cmd) crée ou enlève des noeuds de fichiers périphériques au démarrage en fonction du répertoire `/dev` pour tous types de périphériques

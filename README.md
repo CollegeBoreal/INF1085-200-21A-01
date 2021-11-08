@@ -60,11 +60,11 @@ Trouvez votre numéro local : https://collegeboreal.zoom.us/u/kcO3V2vthZ
 |06|21-10-11|[3.ENV](3.ENV)                                  |                                         |                   |
 |07|21-10-18|[4.Linux](4.Linux)                              | Boot                                    | Chapitre 3, 4, 5  |
 |08|21-10-25| Autumn Break                                   |                                         |                   |
-|06|21-11-01|          | AWS                                     | Chapitre 2        |
+|06|21-11-01|          |                                      | Chapitre 2        |
 |10|21-11-08|[5.Volume](5.Volume)                              |                                         |                   |
 |11|21-11-15|[6.Shell](6.Shell)                                                |                                         |                   |
 |12|21-11-22|                          |                                         |  Chapitre 4       |
-|13|21-12-29|[5.Virtualization](./5.Virtualization)                                                |                                         |                   |
+|13|21-12-29|[5.Virtualization](./5.Virtualization)          | AWS                                     |                   |
 |14|21-12-06|                                                |                                         |                   |
 |15|21-12-13| Fin des cours                                  |                                         |                   |
 

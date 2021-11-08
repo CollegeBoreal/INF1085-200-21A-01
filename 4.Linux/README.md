@@ -37,19 +37,19 @@
 | :+1: Boot, reboot, and shut down a system safely                    |  shutdown -h now                              |
 | Boot or change system into different operating modes                |                                               |
 | Install, configure and troubleshoot bootloaders                     |                                               |
-| :+1: Diagnose and manage processes                                   `top`, `ps`                                   |
+| :+1: Diagnose and manage processes                                  |  `top`, `ps`                                  |
 | :+1: Locate and analyze system log files                            | `journalctl`, `/var/log` $11.1.1              |
-|  Schedule tasks to run at a set date and time                   |                                               |
-|  Verify completion of scheduled jobs                            |                                               |
+|  Schedule tasks to run at a set date and time                       |                                               |
+|  Verify completion of scheduled jobs                                |                                               |
 | Update software to provide required functionality and security      |                                               |
 | Verify the integrity and availability of resources                  |                                               |
 | Verify the integrity and availability of key processes              |                                               |
-| Change kernel runtime parameters, persistent and non-persistent|                                               |
+| Change kernel runtime parameters, persistent and non-persistent     |                                               |
 | Use scripting to automate system maintenance tasks                  |                                               |
 | Manage the startup process and services (In Services Configuration) |                                               |
-| List and identify SELinux/AppArmor file and process contexts   |                                               |
+| List and identify SELinux/AppArmor file and process contexts        |                                               |
 | Manage Software                                                     |                                               |
-| Identify the component of a Linux distribution that a file ....|                                               |
+| Identify the component of a Linux distribution that a file ....     |                                               |
 
 #### User and Group Management – 10%
 
@@ -67,7 +67,7 @@
 
 |   Feature                                                           | Chapter                                       |
 |---------------------------------------------------------------------|-----------------------------------------------|
-| :+1: Configure networking and hostname resolution statically or dynamic..| `if addr`,                                    |
+| :+1: Configure networking and hostname resolution statically or dynamic..| `ip addr`,                                    |
 | :+1: Configure network services to start automatically at boot           | `netplan apply`                               |
 | Implement packet filtering                                          |                                               |
 | Start, stop, and check the status of network services               |                                               |
@@ -79,15 +79,15 @@
 |   Feature                                                           | Chapter                                       |
 |---------------------------------------------------------------------|-----------------------------------------------|
 | Configure a caching DNS server                                      |                                               |
-| Maintain a DNS zone                                                 |                                               |
+| :+1: Maintain a DNS zone                                            | `name.com`, `namecheap.com`                   |
 | Configure email aliases                                             |                                               |
 | Configure SSH servers and clients                                   | `opensshd`, PKI                               |
 | Restrict access to the HTTP proxy server                            |                                               |
 | Configure an IMAP and IMAPS service                                 |                                               |
 | Query and modify the behavior of system services at various ...     |                                               |
-| Configure an HTTP server                                            |                                               |
+| Configure an HTTP server                                            | `Projet`                                      |
 | Configure HTTP server log files                                     |                                               |
-| Configure a database server                                         |                                               |
+| Configure a database server                                         | `Projet`                                      |
 | Restrict access to a web page                                       |                                               |
 | Manage and configure containers                                     | `docker container`                            |
 | Manage and configure Virtual Machines                               | `docker-machine`                              |
@@ -96,16 +96,16 @@
 
 |   Feature                                                           | Chapter                                       |
 |---------------------------------------------------------------------|-----------------------------------------------|
-| :+1: List, create, delete, and modify physical storage partitions        | `df`, `du`                                    |
+| :+1: List, create, delete, and modify physical storage partitions   | `df`, `du`                                    |
 | :+1: Manage and configure LVM storage                               |                                               |
 | Create and configure encrypted storage                              |                                               |
 | :+1: Configure systems to mount file systems at or during boot      |                                               |
 | Configure and manage swap space                                     |                                               |
 | :+1: Create and manage RAID devices                                 |                                               |
 | :+1: Configure systems to mount file systems on demand              |                                               |
-| :+1: Create, manage and diagnose advanced file system permissions        |                                               |
-| Setup user and group disk quotas for filesystems               |                                               |
-| Create and configure file systems                              |                                               |
+| :+1: Create, manage and diagnose advanced file system permissions   |                                               |
+| Setup user and group disk quotas for filesystems                    |                                               |
+| Create and configure file systems                                   |                                               |
 
 <hr>
 

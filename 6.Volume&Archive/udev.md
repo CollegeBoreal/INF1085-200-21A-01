@@ -1,5 +1,7 @@
 # :roll_of_paper: Le périphérique en mode bloc (Block Device)
 
+:bulb: en opposition a `Character Device`
+
 Les périphériques en mode bloc réferent souvant aux disques durs dont la lecture se fait en bloc, généralement de 512 octets (bytes)
 
 ## :ab: Information sur le périphérique 

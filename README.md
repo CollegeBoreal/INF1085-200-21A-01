@@ -62,8 +62,8 @@ Trouvez votre numéro local : https://collegeboreal.zoom.us/u/kcO3V2vthZ
 |08|21-10-25| Autumn Break                                   |                                         |                   |
 |06|21-11-01|          |                                      | Chapitre 2        |
 |10|21-11-08|[5.Volume](5.Volume)                              |                                         |                   |
-|11|21-11-15|[6.docker-machine](6.docker-machine)                                                |                                         |                   |
-|11|21-11-22|[7.Shell](7.Shell)                                                |                                         |                   |
+|11|21-11-15|[7.docker-machine](7.docker-machine)                                                |                                         |                   |
+|11|21-11-22|[8.Shell](8.Shell)                                                |                                         |                   |
 |13|21-12-29|[5.Virtualization](./5.Virtualization)          | AWS                                     |                   |
 |14|21-12-06|                                                |                                         |                   |
 |15|21-12-13| Fin des cours                                  |                                         |                   |

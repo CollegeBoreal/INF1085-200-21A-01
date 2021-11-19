@@ -37,15 +37,11 @@ i=0
 
 for id in "${ETUDIANTS[@]}"
 do
-   VERSION=`ssh -i ~/.ssh/b300098957@ramena.pk \
-        -o StrictHostKeyChecking=no \
-        -o PasswordAuthentication=no \
-        -o ConnectTimeout=5 ${SERVERS[${i}]} lsb_release -a 2>/dev/null`
    LVG=`ssh -i ~/.ssh/b300098957@ramena.pk \
         -o StrictHostKeyChecking=no \
         -o PasswordAuthentication=no \
         -o ConnectTimeout=5 ${SERVERS[${i}]} sudo lvs ubuntu-vg/iscsi-lv --noheadings 2>/dev/null`
-   echo $LVG
+   # echo $LVG
    OKI="| ${i} | ${id} - <image src='https://avatars.githubusercontent.com/u/${AVATARS[$i]}?s=460&v=4' width=20 height=20></image> | \`ssh ${SERVERS[$i]}\` | :tada: | "
    KO="| ${i} | ${id} - <image src='https://avatars.githubusercontent.com/u/${AVATARS[$i]}?s=460&v=4' width=20 height=20></image> | \`ssh ${SERVERS[$i]}\` | :x: |"
    # --- LVG -------------

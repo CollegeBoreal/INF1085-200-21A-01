@@ -1,4 +1,16 @@
-## Liste 
+
+
+## :a: Projects
+
+|:hash:| Boréal :id:                | Interne            | :dvd: LVM |
+|------|----------------------------|--------------------|-----------|
+| 0 | 300111441 - <image src='https://avatars.githubusercontent.com/u/71027895?s=460&v=4' width=20 height=20></image> | `ssh leonaldolinux@10.13.237.37` | :tada: |
+| 1 | 300118524 - <image src='https://avatars.githubusercontent.com/u/73952068?s=460&v=4' width=20 height=20></image> | `ssh ntonga@10.13.237.26` | :x: |
+| 2 | 300117811 - <image src='https://avatars.githubusercontent.com/u/71027809?s=460&v=4' width=20 height=20></image> | `ssh sio-mh@10.13.237.34` | :x: |
+| 3 | 300121460 - <image src='https://avatars.githubusercontent.com/u/71027883?s=460&v=4' width=20 height=20></image> | `ssh dave21@10.13.237.31` | :x: |
+| 4 | 300122014 - <image src='https://avatars.githubusercontent.com/u/71392439?s=460&v=4' width=20 height=20></image> | `ssh sylvainmakak@10.13.237.28` | :tada: |
+
+## :bulb: Liste 
 
 #### :parking: Chapter 5 : Configuring automated offsite backups
 
@@ -19,10 +31,6 @@
 #### :parking: Chapter 10 : Securing network connections VPN
 
 :pushpin: `VPN` Se référer au Chapitre 10 page 204
-
-#### :parking: Chapitre 12 : Sharing data over a private network
-
-:pushpin: `Samba` Se référer au Chapitre 12
 
 
 ####  :video_camera: Projet Caméra en Streaming sur Pi 4

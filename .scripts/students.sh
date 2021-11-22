@@ -20,7 +20,7 @@ AVATARS=(
 SERVERS=(
 leonaldolinux@10.13.237.37
 ntonga@10.13.237.26
-sio-mh@10.13.237.34
+sio_mh@10.13.237.34
 dave21@10.13.237.31
 sylvainmakak@10.13.237.28
 )

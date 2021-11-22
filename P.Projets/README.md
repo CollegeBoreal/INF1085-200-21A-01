@@ -2,8 +2,8 @@
 
 ## :a: Projects
 
-|:hash:| Boréal :id:                | Interne            | :dvd: LVM |
-|------|----------------------------|--------------------|-----------|
+|:hash:| Boréal :id:                | Interne            | Sujet	   | Prêt	| Correction |
+|------|----------------------------|--------------------|-----------|------|------------|
 | 0 | 300111441 - <image src='https://avatars.githubusercontent.com/u/71027895?s=460&v=4' width=20 height=20></image> | `ssh leonaldolinux@10.13.237.37` | :tada: |
 | 1 | 300118524 - <image src='https://avatars.githubusercontent.com/u/73952068?s=460&v=4' width=20 height=20></image> | `ssh ntonga@10.13.237.26` | :x: |
 | 2 | 300117811 - <image src='https://avatars.githubusercontent.com/u/71027809?s=460&v=4' width=20 height=20></image> | `ssh sio-mh@10.13.237.34` | :x: |

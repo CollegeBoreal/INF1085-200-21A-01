@@ -8,7 +8,7 @@
 
 [Participation](.scripts/Participation.md)
 
-<img src="images/Whiteboard[1]-01.png" width="1648" height="927" > </img>
+<img src="images/Whiteboard[1]-01.png" width="412" height="231" > </img>
 
 ## type de Shell
 

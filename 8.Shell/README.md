@@ -2,9 +2,9 @@
 
  [References](References.md)
 
-:one: Donner unexample de fichier `.bashrc` modifiant la variable d'environnement `PATH` permettant de rajouter ses fichiers binaires `~/bin`
+:one: Donner un example de fichier `shell` 
 
-:two: Faire une boucle dans le fichier shell
+:two: Écrire `bonjour monde` dans une langue
 
 [Participation](.scripts/Participation.md)
 

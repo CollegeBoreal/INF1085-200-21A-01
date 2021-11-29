@@ -2,6 +2,13 @@
 
 ## :a: Projects
 
+## :b: Creer un repertoire avec votre :id:
+
+- [ ] Ajouter un ficher `README.md`
+- [ ] Expliquer votre projet
+
+## :ab: Projets
+
 |:hash:| Boréal :id:                | Interne            | Sujet	   |
 |------|----------------------------|--------------------|-----------|
 | 0 | 300111441 - <image src='https://avatars.githubusercontent.com/u/71027895?s=460&v=4' width=20 height=20></image> | `ssh leonaldolinux@10.13.237.37` |  | 

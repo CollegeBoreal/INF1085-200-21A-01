@@ -4,10 +4,10 @@
 
 |:hash:| Boréal :id:                | Interne            | Sujet	   | Prêt	| Correction |
 |------|----------------------------|--------------------|-----------|------|------------|
-| 0 | 300111441 - <image src='https://avatars.githubusercontent.com/u/71027895?s=460&v=4' width=20 height=20></image> | `ssh leonaldolinux@10.13.237.37` | [:parking: VPN](README.md#parking-chapter-10--securing-network-connections-vpn) | :x: | :x: | 
+| 0 | 300111441 - <image src='https://avatars.githubusercontent.com/u/71027895?s=460&v=4' width=20 height=20></image> | `ssh leonaldolinux@10.13.237.37` |  | :x: | :x: | 
 | 1 | 300115206 - <image src='https://avatars.githubusercontent.com/u/73952068?s=460&v=4' width=20 height=20></image> | `ssh ntonga@10.13.237.26` | :x: |
 | 2 | 300117811 - <image src='https://avatars.githubusercontent.com/u/71027809?s=460&v=4' width=20 height=20></image> | `ssh sio_mh@10.13.237.34` | :x: |
-| 3 | 300121460 - <image src='https://avatars.githubusercontent.com/u/71027883?s=460&v=4' width=20 height=20></image> | `ssh dave21@10.13.237.31` | :x: |
+| 3 | 300121460 - <image src='https://avatars.githubusercontent.com/u/71027883?s=460&v=4' width=20 height=20></image> | `ssh dave21@10.13.237.31` | [:parking: VPN](README.md#parking-chapter-10--securing-network-connections-vpn) |
 | 4 | 300122014 - <image src='https://avatars.githubusercontent.com/u/71392439?s=460&v=4' width=20 height=20></image> | `ssh sylvainmakak@10.13.237.28` | :tada: |
 
 ## :bulb: Liste 

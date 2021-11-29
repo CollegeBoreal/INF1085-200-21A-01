@@ -37,7 +37,7 @@ Trouvez votre numéro local : https://collegeboreal.zoom.us/u/kcO3V2vthZ
 |--|--------|:-------------------|:------------------------------------|:--------------------------------------------------------------|
 |01|21-10-04| [0.Blog](./0.Blog) | Installer Ubuntu 20.04LTS           | Démontrer l'installation par un blog (i.e. http://wordpress.com) |
 |02|21-10-18| [2.keys](./2.keys/.scripts/Participation.md) | Installer la clé publique | Démontrer l'installation d'une clé publique |
-|03|21-10-26| [3.ENV](./3.ENV/.scripts/Participation.md) | Variables d'environnement | Démontrer les variables d'environmments |
+|03|21-10-25| [3.ENV](./3.ENV/.scripts/Participation.md) | Variables d'environnement | Démontrer les variables d'environmments |
 |04|21-11-22| [5.Volume](5.Volume/.scripts/Participation.md) | Ajouter de l'espace disque   | Démontrer l'installation d'un Disque Logique |
 
 

@@ -40,7 +40,7 @@ do
    # --- config ---
    ENV_FILE=.${id}.rc
    # echo $ENV_FILE
-   OKI="| ${i} | ${id} - <image src='https://avatars.githubusercontent.com/u/${AVATARS[$i]}?s=460&v=4' width=20 height=20></image> | [:tada: ${id}](${ENV_FILE}) | "
+   OKI="| ${i} | ${id} - <image src='https://avatars.githubusercontent.com/u/${AVATARS[$i]}?s=460&v=4' width=20 height=20></image> | [:tada: ${id}](../${ENV_FILE}) | "
    KO="| ${i} | ${id} - <image src='https://avatars.githubusercontent.com/u/${AVATARS[$i]}?s=460&v=4' width=20 height=20></image> | :x: |"
    # --- FILE -------------
    if  [ -f "$ENV_FILE" ]; then

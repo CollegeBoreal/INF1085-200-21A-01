@@ -32,7 +32,7 @@ ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQD2pLhMqFGKffSdYvNCMAyM7598oBY+m/3q5AMXmb7I
 |------|-----------|-------------------------|------------------|------------------|-------------|
 | 01   | 300106677 - [<image src="https://avatars.githubusercontent.com/u/71027895?v=4" width=20 height=20></image>](https://github.com/Leonaldo1994) | `ssh lenoaldolinux@10.13.237.37`   |:heavy_check_mark:| :x: | :three::seven: |
 | 02   | 300115206 - [<image src="https://avatars.githubusercontent.com/u/73952068?v=4" width=20 height=20></image>](https://github.com/itonga) | `ssh ntonga@10.13.237.26`   |:x:| :x:    | :two::six:|
-| 03   | 300117811 - [<image src="https://avatars.githubusercontent.com/u/71027809?v=4" width=20 height=20></image>](https://github.com/sio-mh)  |  `ssh sio-mh@10.13.237.34`   |:x:| :x: | :three::four:|            
+| 03   | 300117811 - [<image src="https://avatars.githubusercontent.com/u/71027809?v=4" width=20 height=20></image>](https://github.com/sio-mh)  |  `ssh sio-mh@10.13.237.34`   |:heavy_check_mark:| :x: | :three::four:|            
 | 04   | 300121460 - [<image src="https://avatars.githubusercontent.com/u/71027883?v=4" width=20 height=20></image>](https://github.com/daveinfo20) | `ssh dave21@10.13.237.31`   |:heavy_check_mark:| :x: | :three::one:| 
 | 05   | 300122014 - [<image src="https://avatars.githubusercontent.com/u/71392439?v=4" width=20 height=20></image>](https://github.com/sylvainEmm) |`ssh sylvainmakak@10.13.237.28`   |:x:| :x: | :two::eight: |
 

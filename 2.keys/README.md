@@ -29,7 +29,7 @@ ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQD2pLhMqFGKffSdYvNCMAyM7598oBY+m/3q5AMXmb7I
 :two: Renseigner son utilisateur dans le tableau ci-dessous (i.e. MONUSER@10.13.237.126 => brice@10.13.237.126)
 
 |:hash:| :id:      | Interne                 | ssh              | Unit :hash: |
-|------|-----------|-------------------------|------------------||-------------|
+|------|-----------|-------------------------|------------------|-------------|
 | 01   | 300106677 - [<image src="https://avatars.githubusercontent.com/u/71027895?v=4" width=20 height=20></image>](https://github.com/Leonaldo1994) | `ssh lenoaldolinux@10.13.237.37`   |:heavy_check_mark:| :three::seven: |
 | 02   | 300115206 - [<image src="https://avatars.githubusercontent.com/u/73952068?v=4" width=20 height=20></image>](https://github.com/itonga) | `ssh ntonga@10.13.237.26`   |:heavy_check_mark:| :two::six:|
 | 03   | 300117811 - [<image src="https://avatars.githubusercontent.com/u/71027809?v=4" width=20 height=20></image>](https://github.com/sio-mh)  |  `ssh sio-mh@10.13.237.34`   |:heavy_check_mark:| :three::four:|            

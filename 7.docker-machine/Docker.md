@@ -52,14 +52,6 @@ mysql> CREATE USER 'etudiants'@'%' IDENTIFIED BY 'etudiants_1';
 mysql> GRANT ALL ON etudiants.* TO 'etudiants'@'%';
 ```
 
-:two: Un host spécifique par son nom ou son IP
-
-```
-mysql> CREATE USER 'etudiants'@'tsihombe.boralc.on.ca' IDENTIFIED BY 'etudiants_1';
-mysql> GRANT ALL ON etudiants.* TO 'etudiants'@'tsihombe.boralc.on.ca';
-```
-
-
 - activer immédiatemment
 
 ```

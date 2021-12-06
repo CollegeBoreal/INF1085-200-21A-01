@@ -47,3 +47,9 @@ docker-machine active
 ```
 ma-machine
 ```
+
+- [ ] Annuler les machines actives
+
+```
+eval $(docker-machine env --unset)
+```

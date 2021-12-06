@@ -16,7 +16,7 @@ docker-machine ls
 > Retour
 ```
 NAME      ACTIVE   DRIVER       STATE     URL                         SWARM   DOCKER      ERRORS
-ma-machine   -     generic      Running   tcp://10.13.237.25:2376             v19.03.12  
+ma-machine   -     generic      Running   tcp://10.13.237.25:2376             v20.10.3  
 ```
 
 - [ ] Activer une machine
@@ -35,7 +35,7 @@ docker-machine ls
 > Retour
 ```
 NAME      ACTIVE   DRIVER       STATE     URL                         SWARM   DOCKER      ERRORS
-ma-machine   *     generic      Running   tcp://10.13.237.25:2376             v19.03.12  
+ma-machine   *     generic      Running   tcp://10.13.237.25:2376             v20.10.3  
 ```
 
 * la machine active

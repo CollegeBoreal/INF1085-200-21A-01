@@ -25,3 +25,18 @@ dave21@10.13.237.31
 sylvainmakak@10.13.237.28
 )
 
+IDS=(
+leonaldolinux
+ntando
+sio_mh
+dave21
+sylvainmakak
+)
+
+IPS=(
+10.13.237.37
+10.13.237.26
+10.13.237.34
+10.13.237.31
+10.13.237.28
+)

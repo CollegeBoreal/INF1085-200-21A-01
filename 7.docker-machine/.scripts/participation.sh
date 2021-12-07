@@ -42,7 +42,7 @@ do
                         --generic-ip-address=${IPS[${i}]} \
                         --generic-ssh-user=${IDS[${i}]} \
                         --generic-ssh-key ~/.ssh/b300098957\@ramena.pk \
-                        machine-${IPS[${i}]} 2>&1 > /dev/null
+                        machine-${IPS[${i}]} > /dev/null 2>&1
    DOCKER_STATUS=`docker-machine status machine-${IPS[${i}]} 2> /dev/null`
    OK="| ${i} | ${id} - <image src='https://avatars.githubusercontent.com/u/${AVATARS[$i]}?s=460&v=4' width=20 height=20></image> | \`ssh ${SERVERS[$i]}\` | :heavy_check_mark: | "
    KO="| ${i} | ${id} - <image src='https://avatars.githubusercontent.com/u/${AVATARS[$i]}?s=460&v=4' width=20 height=20></image> | \`ssh ${SERVERS[$i]}\` | :x: | "

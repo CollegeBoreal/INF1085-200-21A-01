@@ -1,6 +1,6 @@
 # docker-machine
 
-[Participation :tada:](.scripts/Participation.md)
+[:tada: Participation ](.scripts/Participation.md)
 
 ## :a: Installer une machine Générique
 

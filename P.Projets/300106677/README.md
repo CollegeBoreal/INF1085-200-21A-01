@@ -7,3 +7,5 @@
 ```
 snap install nextcloud
 ```
+
+![image](images/ubuntu-store.png)

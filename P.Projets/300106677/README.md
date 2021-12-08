@@ -2,7 +2,7 @@
 
 ## :a: Installation
 
-- [ ] Installation de NextCloud
+- [ ] Installation dee NextCloud
 
 ```
 snap install nextcloud

@@ -23,9 +23,45 @@ snap install nextcloud
 
 ## :c: Installation
 
-- [ ] Interface de connection nextcloud
+- [ ] Interface de connection Nextcloud
 
 ![connection](https://user-images.githubusercontent.com/71027895/145519166-1bd39cff-9b92-40b0-9e69-de53ac72708c.png)
+
+## :d: Installation
+
+- [ ] Creation du compte Nexcloud
+
+![creation](https://user-images.githubusercontent.com/71027895/145520397-2e769f83-240b-4ad2-b559-3eda418d9a77.png)
+
+
+## :e: Installation
+
+- [ ] Configuration des services
+
+![compte 2](https://user-images.githubusercontent.com/71027895/145520636-b2464109-8ad7-438d-b0e1-6cbc4de0dcc7.png)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 

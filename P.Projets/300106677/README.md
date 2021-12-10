@@ -57,6 +57,14 @@ snap install nextcloud
 
 ![mon premier ](https://user-images.githubusercontent.com/71027895/145521338-c7160100-0c7d-4730-bd9d-a0cb140e8c22.png)
 
+## :f: Installation
+
+- [ ] Mon nouveau fichier sur Nexcloud
+
+![mes fichiers](https://user-images.githubusercontent.com/71027895/145521651-b499c7ca-6b19-480a-86e3-aa7b4ec2e4f1.png)
+
+
+
 
 
 

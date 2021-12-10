@@ -66,7 +66,7 @@ snap install nextcloud
 Grace avec cette installation reussit vous avez la possiblité de d'enregistré vos donneés sur Nexcloud 🎉
 
 
-## :f: Fin de l'installaton 💯
+## :f: Fin de l'installation 💯
 
 - [ ]📍 Les references
 

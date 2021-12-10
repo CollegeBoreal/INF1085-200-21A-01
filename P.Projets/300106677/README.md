@@ -1,4 +1,4 @@
-# Mon Projet
+# Mon Projet😎
 
 ## :a: Installation 
 
@@ -12,7 +12,7 @@ snap install
 
 ## :b: Installation
 
-- [ ] Installation de NextCloud
+- [ ] ⭐Installation de NextCloud
 
 ```
 snap install nextcloud
@@ -23,34 +23,34 @@ snap install nextcloud
 
 ## :c: Installation
 
-- [ ] Interface de connection Nextcloud
+- [ ]📌 Interface de connection Nextcloud
 
 ![connection](https://user-images.githubusercontent.com/71027895/145519166-1bd39cff-9b92-40b0-9e69-de53ac72708c.png)
 
 ## :d: Installation
 
-- [ ] Creation du compte Nexcloud
+- [ ] 📌Creation du compte Nexcloud
 
 ![creation](https://user-images.githubusercontent.com/71027895/145520397-2e769f83-240b-4ad2-b559-3eda418d9a77.png)
 
 
 ## :e: Installation
 
-- [ ] Configuration des services
+- [ ] 📌Configuration des services
 
 ![compte 2](https://user-images.githubusercontent.com/71027895/145520636-b2464109-8ad7-438d-b0e1-6cbc4de0dcc7.png)
 
 
 ## :f: Installation
 
-- [ ] Tableau de bord
+- [ ]📌 Tableau de bord
 
 ![Tableau de bord](https://user-images.githubusercontent.com/71027895/145520995-7faf069c-adea-4060-bb84-6324e57fac27.png)
 
 
 ## :f: Installation
 
-- [ ] Creation de mon nouveau fichier
+- [ ] 📌Creation de mon nouveau fichier
 
 ![neww](https://user-images.githubusercontent.com/71027895/145521308-8d5f9335-5ca9-4a5e-b48a-a317ed8945f0.png)
 
@@ -59,14 +59,16 @@ snap install nextcloud
 
 ## :f: Installation
 
-- [ ] Mon nouveau fichier sur Nexcloud
+- [ ] 📌Mon nouveau fichier sur Nexcloud 👉
 
 ![mes fichiers](https://user-images.githubusercontent.com/71027895/145521651-b499c7ca-6b19-480a-86e3-aa7b4ec2e4f1.png)
 
+Grace avec cette installation reussit vous avez la possiblité de d'enregistré vos donneés sur Nexcloud 🎉
 
-## :f: Fin de l'installaton
 
-- [ ] Les references
+## :f: Fin de l'installaton 💯
+
+- [ ]📍 Les references
 
 
 ✔️https://www.manning.com/books/linux-in-action

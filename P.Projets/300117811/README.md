@@ -2,15 +2,10 @@
 
 ## :boxing_glove: My Project 
 
-```python
-import lm
 
-def ma_fonction():
-   println("toto")
-```
 
-- [ ] Installer `apache`
+- [ ] Installer `NextCloud`
 
 ```bash
-sudo apt-get install apache
+sudo apt install snapd
 ```

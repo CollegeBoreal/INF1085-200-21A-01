@@ -69,9 +69,9 @@ snap install nextcloud
 - [ ] Les references
 
 
-https://www.manning.com/books/linux-in-action
+✔️https://www.manning.com/books/linux-in-action
 
-https://doc.ubuntu-fr.org/snap#:~:text=Le%20format%20snap%20vise%20%C3%A0,la%20fiabilit%C3%A9%20et%20la%20s%C3%A9curit%C3%A9.&text=L'application%20s'ex%C3%A9cute%20ensuite,et%20la%20s%C3%A9curit%C3%A9%20du%20syst%C3%A8me
+✔️https://doc.ubuntu-fr.org/snap#:~:text=Le%20format%20snap%20vise%20%C3%A0,la%20fiabilit%C3%A9%20et%20la%20s%C3%A9curit%C3%A9.&text=L'application%20s'ex%C3%A9cute%20ensuite,et%20la%20s%C3%A9curit%C3%A9%20du%20syst%C3%A8me
 
 
 

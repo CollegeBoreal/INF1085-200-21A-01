@@ -41,6 +41,25 @@ snap install nextcloud
 ![compte 2](https://user-images.githubusercontent.com/71027895/145520636-b2464109-8ad7-438d-b0e1-6cbc4de0dcc7.png)
 
 
+## :f: Installation
+
+- [ ] Tableau de bord
+
+![Tableau de bord](https://user-images.githubusercontent.com/71027895/145520995-7faf069c-adea-4060-bb84-6324e57fac27.png)
+
+
+## :f: Installation
+
+- [ ] Creation de mon nouveau fichier
+
+![neww](https://user-images.githubusercontent.com/71027895/145521308-8d5f9335-5ca9-4a5e-b48a-a317ed8945f0.png)
+
+
+![mon premier ](https://user-images.githubusercontent.com/71027895/145521338-c7160100-0c7d-4730-bd9d-a0cb140e8c22.png)
+
+
+
+
 
 
 

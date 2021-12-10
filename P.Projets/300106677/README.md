@@ -7,7 +7,8 @@
 ```
 snap install nextcloud
 ```
-![p-5](https://user-images.githubusercontent.com/71027895/145302116-c7d4d53b-d7d5-46d8-bc5d-2376b5d1b298.png)
+![snap](https://user-images.githubusercontent.com/71027895/145515468-23680b8c-cf16-454b-b44b-4a3cb388e230.png)
+
 
 
 

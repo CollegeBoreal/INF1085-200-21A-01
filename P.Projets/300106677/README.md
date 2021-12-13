@@ -23,7 +23,7 @@ sudo snap install nextcloud
 
 ## :whale2: Installation
 
-- [ ]📌 Interface de connection Nextcloud
+- [ ] 📌 Interface de connection Nextcloud
 
 ![connection](https://user-images.githubusercontent.com/71027895/145519166-1bd39cff-9b92-40b0-9e69-de53ac72708c.png)
 

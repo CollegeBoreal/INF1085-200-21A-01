@@ -27,7 +27,7 @@ sudo snap install nextcloud
 
 ![connection](https://user-images.githubusercontent.com/71027895/145519166-1bd39cff-9b92-40b0-9e69-de53ac72708c.png)
 
-## :d: Installation ⭐
+## 🍬: Installation ⭐
 
 - [ ] 📌Creation du compte Nexcloud
 

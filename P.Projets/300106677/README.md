@@ -34,7 +34,7 @@ sudo snap install nextcloud
 ![creation](https://user-images.githubusercontent.com/71027895/145520397-2e769f83-240b-4ad2-b559-3eda418d9a77.png)
 
 
-## :e: Installation
+## 🍺: Installation
 
 - [ ] 📌Configuration des services
 

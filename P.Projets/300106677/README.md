@@ -57,7 +57,7 @@ sudo snap install nextcloud
 
 ![mon premier ](https://user-images.githubusercontent.com/71027895/145521338-c7160100-0c7d-4730-bd9d-a0cb140e8c22.png)
 
-## :f: Installation
+## 🏑: Installation
 
 - [ ] 📌Mon nouveau fichier sur Nexcloud 👉
 
@@ -66,9 +66,9 @@ sudo snap install nextcloud
 Grace avec cette installation reussit vous avez la possiblité de d'enregistré vos donneés sur Nexcloud 🎉
 
 
-## :f: Fin de l'installation 💯
+## ‼️: Fin de l'installation 💯
 
-- [ ]📍 Les references
+- []📍 Les references
 
 
 ✔️https://www.manning.com/books/linux-in-action

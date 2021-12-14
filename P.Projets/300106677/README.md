@@ -41,7 +41,7 @@ sudo snap install nextcloud
 ![compte 2](https://user-images.githubusercontent.com/71027895/145520636-b2464109-8ad7-438d-b0e1-6cbc4de0dcc7.png)
 
 
-## :f: Installation
+## 🐼: Installation
 
 - [ ]📌 Tableau de bord
 

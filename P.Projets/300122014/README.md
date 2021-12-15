@@ -13,7 +13,7 @@
 4.copie du fichier openVpn sur la machine cliente
 5:Installation d'OpenVpn sur notre Ordinateur portable(machine cliente) 
 
-🥇:Nous devons créer un OPEN VPN sur notre Serveur Linux
+🥇:Nous devons créer un OPENVPN sur notre Serveur Linux
 
 ![01](https://user-images.githubusercontent.com/71392439/146131678-456fd459-9b61-44e5-9cbf-4f432aaa7033.png)
 
@@ -27,18 +27,18 @@
 ☑️:commande permettant de mettre à jour notre système
 
 ```
-sudo apt update
+sudo  update
 ```
 ![Capture d’écran 2021-12-12 224106](https://user-images.githubusercontent.com/71392439/146133668-88ee57fe-82b9-4afc-8f15-0c21308b55f3.png)
 
 ```
-sudo apt-get ugrade
+sudo  ugrade
 ```
 ![upgrade](https://user-images.githubusercontent.com/71392439/146133807-5817ef63-1c61-452a-b0dd-5bdd5fe6b6ad.png)
 
 ## Etape 2: Trouver notre adresse IP et la notée
 
-☑️ à l'aide de la commande suivante
+☑️ À l'aide de la commande suivante
 ```
 ip address
 ```
@@ -55,7 +55,7 @@ wget https://git.io/vpn -O openvpn-ubuntu-install.sh
 ![openvpn installer](https://user-images.githubusercontent.com/71392439/146134533-414a7d54-a74b-4223-89ba-be291a8e57f8.png)
 
 
-☑️:Nous devoons rendre le script executable après le telechargement avec cette commande
+☑️:Nous devoons rendre le script éxécutable après le téléchargement avec cette commande
 
 ```
 chmod -v +x openvpn-ubuntu-install.sh
@@ -63,7 +63,7 @@ chmod -v +x openvpn-ubuntu-install.sh
 ![script executable](https://user-images.githubusercontent.com/71392439/146134755-4ad5675f-d5ae-4a1e-b95a-373bb233b2bd.png)
 
 
-☑️: une fois que la permission à été deémandé a notre serveur pour executer le script on peut ouvrir notre script avec l'editeur nano/vim
+☑️: une fois que la permission à été démandé a notre serveur pour executer le script on peut ouvrir notre script avec l'éditeur nano/vim
 
 ```
  nano openvpn-ubuntu-install.sh
@@ -84,7 +84,7 @@ sudo ./openvpn-ubuntu-install.sh
 
 
 
- ☑️:Vous devex repondre a une serie de question avant l'installation de l'openVpn
+ ☑️:Vous devez repondre a une serie de question avant l'installation de l'openVpn
  🔖:  On remarque ici que le système nous a donné notre adresse IP publique qu’il a convertir grâce à notre adresse IP privée. Notre adresse IP publique ici est 205.211.23.237
  🔖: Choisir le procole que  l'OpenVPN doit utiliser. Dans notre cas nous avons choisir le protocole UDP qui est d’ailleurs recommande par le système
 🔖:l'openVpn vas Utiliser le port 1194
@@ -118,7 +118,7 @@ $ ssh sylvainmakak@10.13.237.28 "sudo -S cat /root/sylvain.ovpn" > sylvain.ovpn
 ```
 ![sylvain](https://user-images.githubusercontent.com/71392439/146140554-d5c37a50-758f-4309-b804-6966af092d88.png)
 
-☑️:faire la commande ls pour voir ou est localiser notre fichier OpenVpn dans notre ordinateur
+☑️:faire la commande ls pour voir oû est localiser notre fichier OpenVpn dans notre ordinateur
 
 ![lscomande](https://user-images.githubusercontent.com/71392439/146140714-e94c788c-362d-4dd5-9b4c-b8ae9e4f95e7.png)
 ## Etape 5: Installation d'OpenVpn sur notre Ordinateur portable(machine cliente) 
@@ -162,10 +162,10 @@ propriété, comptabilité et cocher rexecuter ce programme en tant qu'administr
 ![4](https://user-images.githubusercontent.com/71392439/146144038-281265f8-1465-4cd3-bb2e-c140c2eb6782.png)
 ![5](https://user-images.githubusercontent.com/71392439/146144187-738e7b7e-0479-4fad-a2aa-a31626351703.png)
 
-☑️:une fois que cela est fait vous pouvez ouvrit OpenVPN dans votre ordinateur en doublecliquant sur l’icone qui est sur votre desktop ou en ouvrant le fichier a partir de la barre de tache dans le menu demarrer
+☑️:une fois que cela est fait vous pouvez ouvrir OpenVPN dans votre ordinateur en doublecliquant sur l’icone qui est sur votre desktop et en ouvrant le fichier a partir de la barre de tache dans le menu demarrer
 ![00](https://user-images.githubusercontent.com/71392439/146163007-0ab79dab-c68c-4978-a9b7-43814916bf91.png)
 
-☑️:Une fois connecté a notre VPN nous pouvons vérifier notre connexion avec le CMD Prompt. En faisant la commande IPconfig. Alors vous voyons apparaitre l’adresse IP de notre application OpenVPN qui est 10.8.0.2/24 et on remarque également en faisant la commande tracert 10.8.0.1 on vois le nombre de temps effectuer pour arriver a notre serveur. Aussi en faisant la commande IP a dans notre server on vois clairement nos deux adresses c’est-à-dire l’adresse IP de notre serveur et l’adresse IP openvpn
+☑️:Une fois connecté a notre VPN nous pouvons vérifier notre connexion avec le CMD Prompt. En faisant la commande IPconfig. Alors nous voyons apparaitre l’adresse IP de notre application OpenVPN qui est 10.8.0.2/24 et on remarque également en faisant la commande tracert 10.8.0.1 on vois le nombre de temps effectuer pour arriver a notre serveur. Aussi en faisant la commande IP a dans notre server on vois clairement nos deux adresses c’est-à-dire l’adresse IP de notre serveur et l’adresse IP openvpn
 
 ![07](https://user-images.githubusercontent.com/71392439/146164150-412128a2-1b76-4a63-8f41-d4792ed6ebf4.png)
 ![09](https://user-images.githubusercontent.com/71392439/146164312-86a02634-1d86-417c-ba20-7f422d8cadda.png)

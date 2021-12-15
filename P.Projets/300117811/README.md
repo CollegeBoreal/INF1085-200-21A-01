@@ -55,9 +55,10 @@ sudo snap install nextcloud
 
 - [ ] `Sources:`
 
-- https://www.manning.com/books/linux-in-action
-- https://youtu.be/ZM1fL6ze4X8
-- https://github.com/CollegeBoreal/INF1085-200-21A-01/blob/main/P.Projets/300106677/README.md
+- 🥊 https://www.manning.com/books/linux-in-action 🥊🥊🥊🥊🥊🥊🥊🥊🥊🥊🥊🥊🥊🥊🥊🥊🥊🥊🥊🥊🥊🥊
+- 💰 https://youtu.be/ZM1fL6ze4X8 💰
+- 👼 https://github.com/CollegeBoreal/INF1085-200-21A-01/blob/main/P.Projets/300106677/README.md 👼
+- 🎃 https://doc.ubuntu-fr.org/snap 🎃
 
 
 

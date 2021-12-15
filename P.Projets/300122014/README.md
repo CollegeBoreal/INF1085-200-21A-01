@@ -2,7 +2,7 @@
 
 ## :roll_of_paper: vpn
 
-## 🐳:CONNECTION VPN SUR LE SERVEUR AVEC UBUNTU 20.04. LTS
+## 🐳:CONNECTION VPN SUR UBUNTU 20.04. LTS
 
 🏁: Dans ce tutoriel, vous aller apprendre de la maniere la plus simple comment creer un OPEN VPN sur votre votre server Debian . 🌹 OpenVPN est un logiciel libre permettant de créer un réseau privé virtuel VPN il cree une sorte de tunnel qui va vous permettre de vous connecter a distance a votre server du College boreal 🏁
 

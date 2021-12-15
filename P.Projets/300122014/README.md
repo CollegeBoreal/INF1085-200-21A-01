@@ -68,10 +68,12 @@ chmod -v +x openvpn-ubuntu-install.sh
 ```
 sudo ./openvpn-ubuntu-install.sh
 ```
+![Capture d’écran 2021-12-12 153054](https://user-images.githubusercontent.com/71392439/146136610-2b02f1eb-a7fd-4ebd-9071-54a09bb39b57.png)
+
 ![adresseip](https://user-images.githubusercontent.com/71392439/146137114-73fbe810-d245-4165-9de7-59c36cd9e529.png)
 
 
-![Capture d’écran 2021-12-12 153054](https://user-images.githubusercontent.com/71392439/146136610-2b02f1eb-a7fd-4ebd-9071-54a09bb39b57.png)
+
 
  ☑️:Vous devex repondre a une serie de question avant l'installation de l'openVpn
  🔖:  On remarque ici que le système nous a donné notre adresse IP publique qu’il a convertir grâce à notre adresse IP privée. Notre adresse IP publique ici est 205.211.23.237

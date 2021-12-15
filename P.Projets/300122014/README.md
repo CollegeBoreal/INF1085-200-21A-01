@@ -153,10 +153,26 @@ propriété, comptabilité et cocher rexecuter ce programme en tant qu'administr
 ![4](https://user-images.githubusercontent.com/71392439/146144038-281265f8-1465-4cd3-bb2e-c140c2eb6782.png)
 ![5](https://user-images.githubusercontent.com/71392439/146144187-738e7b7e-0479-4fad-a2aa-a31626351703.png)
 
+☑️:une fois que cela est fait vous pouvez ouvrit OpenVPN dans votre ordinateur en doublecliquant sur l’icone qui est sur votre desktop ou en ouvrant le fichier a partir de la barre de tache dans le menu demarrer
+![00](https://user-images.githubusercontent.com/71392439/146163007-0ab79dab-c68c-4978-a9b7-43814916bf91.png)
 
- 
+☑️:Une fois connecté a notre VPN nous pouvons vérifier notre connexion avec le CMD Prompt. En faisant la commande IPconfig. Alors vous voyons apparaitre l’adresse IP de notre application OpenVPN qui est 10.8.0.2/24 et on remarque également en faisant la commande tracert 10.8.0.1 on vois le nombre de temps effectuer pour arriver a notre serveur. Aussi en faisant la commande IP a dans notre server on vois clairement nos deux adresses c’est-à-dire l’adresse IP de notre serveur et l’adresse IP openvpn
+
+![07](https://user-images.githubusercontent.com/71392439/146164150-412128a2-1b76-4a63-8f41-d4792ed6ebf4.png)
+![09](https://user-images.githubusercontent.com/71392439/146164312-86a02634-1d86-417c-ba20-7f422d8cadda.png)
+
+☑️:  Pour ce connecter a notre OPENVPN vous devez vous servir de la cles que nous avons mis dans le read.txt de notre fichier.
 
 
+   
+## :sparkles: References :sparkles: :
+
+:heavy_check_mark:(https://www.tecmint.com/install-openvpn-in-ubuntu/ )
+
+:heavy_check_mark:(https://www.cyberciti.biz/faq/ubuntu-20-04-lts-set-up-openvpn-server-in-5-minutes/)
+
+
+## ✨:Merci pour votre visite ✨
 
 
 

@@ -27,12 +27,12 @@
 ☑️:commande permettant de mettre à jour notre système
 
 ```
-sudo  update
+sudo apt update
 ```
 ![Capture d’écran 2021-12-12 224106](https://user-images.githubusercontent.com/71392439/146133668-88ee57fe-82b9-4afc-8f15-0c21308b55f3.png)
 
 ```
-sudo  ugrade
+sudo apt ugrade
 ```
 ![upgrade](https://user-images.githubusercontent.com/71392439/146133807-5817ef63-1c61-452a-b0dd-5bdd5fe6b6ad.png)
 

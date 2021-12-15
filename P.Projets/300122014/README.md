@@ -128,7 +128,8 @@ https://openvpn.net/client-connect-vpn-for-windows/
 ☑️:Trouvez l'emplacment du fichier installer dans l'ordinateur. Ouvrir le fichier et changer l'adressse IP publique par votre adresse Ip privée
 ![emplacement](https://user-images.githubusercontent.com/71392439/146142169-207875c4-2773-45d6-9619-bc2f6c5e96fa.png)
 ![Add1](https://user-images.githubusercontent.com/71392439/146142740-b532a5c4-122e-4269-8ac9-abbfc0f8e8a7.png)
-![add2](https://user-images.githubusercontent.com/71392439/146142785-f05cdabc-b449-4511-8cfc-1e342a6e1807.png)
+![05](https://user-images.githubusercontent.com/71392439/146152121-cfd1679f-f7ab-4088-b4e1-571bbcdb19fc.png)
+
 
 ☑️:Enregistrer le fichier puis changer l'emplacement
 ```

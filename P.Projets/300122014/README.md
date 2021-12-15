@@ -4,6 +4,15 @@
 
 ## 🐳:CONNECTION VPN SUR LE SERVEUR AVEC UBUNTU 20.04. LTS
 
+🏁: Dans ce tutoriel, vous aller apprendre de la maniere la plus simple comment creer un OPEN VPN sur votre votre server Debian . 🌹 OpenVPN est un logiciel libre permettant de créer un réseau privé virtuel VPN il cree une sorte de tunnel qui va vous permettre de vous connecter a distance a votre server du College boreal 🏁
+
+## Table des matières:
+1.Mise à jour du systeme 
+2.Trouver notre adresse IP
+3.Telecharger et executer OpenVpn
+4.copie du fichier openVpn sur la machine cliente
+5:Installation d'OpenVpn sur notre Ordinateur portable(machine cliente) 
+
 🥇:Nous devons créer un OPEN VPN sur notre Serveur Linux
 
 ![01](https://user-images.githubusercontent.com/71392439/146131678-456fd459-9b61-44e5-9cbf-4f432aaa7033.png)
@@ -13,7 +22,7 @@
 
 ![02](https://user-images.githubusercontent.com/71392439/146132735-56bb10f4-7fd1-480f-b126-5596c456fe4b.png)
 
-## Etape 1: Mise à jour de notre système Linux
+## Etape 1: Mise à jour de notre système 
 
 ☑️:commande permettant de mettre à jour notre système
 
@@ -102,7 +111,7 @@ sudo ./openvpn-ubuntu-install.sh
 
 ![03](https://user-images.githubusercontent.com/71392439/146139823-79e4506d-721c-4836-84c1-c0ed462ef5b8.png)
 
-## Etape 4:Copier notre fichier OpenVpn sur notr ordinateur portbale considéré comme machine cliente
+## Etape 4:Copier notre fichier OpenVpn sur notre ordinateur portbale considéré comme machine cliente
 
 ```
 $ ssh sylvainmakak@10.13.237.28 "sudo -S cat /root/sylvain.ovpn" > sylvain.ovpn
@@ -161,7 +170,7 @@ propriété, comptabilité et cocher rexecuter ce programme en tant qu'administr
 ![07](https://user-images.githubusercontent.com/71392439/146164150-412128a2-1b76-4a63-8f41-d4792ed6ebf4.png)
 ![09](https://user-images.githubusercontent.com/71392439/146164312-86a02634-1d86-417c-ba20-7f422d8cadda.png)
 
-☑️:  Pour ce connecter a notre OPENVPN vous devez vous servir de la cles que nous avons mis dans le read.txt de notre fichier.
+☑️:  Pour ce connecter a notre OPENVPN vous devez vous servir de la cles que nous avons mis dans le key.txt de notre fichier.
 
 
    

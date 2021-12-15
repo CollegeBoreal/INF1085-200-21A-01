@@ -8,10 +8,15 @@
 
 ## Table des matières:
 1.Mise à jour du systeme 
+
 2.Trouver notre adresse IP
+
 3.Telecharger et executer OpenVpn
+
 4.copie du fichier openVpn sur la machine cliente
+
 5:Installation d'OpenVpn sur notre Ordinateur portable(machine cliente) 
+
 
 🥇:Nous devons créer un OPENVPN sur notre Serveur Linux
 

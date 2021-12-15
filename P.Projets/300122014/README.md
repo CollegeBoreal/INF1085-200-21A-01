@@ -157,7 +157,7 @@ propriété, comptabilité et cocher rexecuter ce programme en tant qu'administr
 ![Capture d’écran 2021-12-12 233504](https://user-images.githubusercontent.com/71392439/146143351-a75a8829-e08e-49ae-892f-45ba49f34930.png)
 
 
-☑️:Une fois cela fais vous pouvez ouvrit OpenVPN dans votre ordinateur en doublecliquant sur l’icone qui est sur votre desktop ou en ouvrant le fichier a partir de la barre de tache dans le menu demarrer.
+☑️:Une fois cela fais vous pouvez ouvrir OpenVPN dans votre ordinateur en doublecliquant sur l’icone qui est sur votre desktop ou en ouvrant le fichier a partir de la barre de tache dans le menu demarrer.
 
 ![4](https://user-images.githubusercontent.com/71392439/146144038-281265f8-1465-4cd3-bb2e-c140c2eb6782.png)
 ![5](https://user-images.githubusercontent.com/71392439/146144187-738e7b7e-0479-4fad-a2aa-a31626351703.png)

@@ -165,6 +165,9 @@ propriété, comptabilité et cocher rexecuter ce programme en tant qu'administr
 ☑️:une fois que cela est fait vous pouvez ouvrir OpenVPN dans votre ordinateur en doublecliquant sur l’icone qui est sur votre desktop et en ouvrant le fichier a partir de la barre de tache dans le menu demarrer
 ![00](https://user-images.githubusercontent.com/71392439/146163007-0ab79dab-c68c-4978-a9b7-43814916bf91.png)
 
+![06](https://user-images.githubusercontent.com/71392439/146175608-0b0d5746-cde2-4b0a-b272-79033b56f8eb.png)
+
+
 ☑️:Une fois connecté a notre VPN nous pouvons vérifier notre connexion avec le CMD Prompt. En faisant la commande IPconfig. Alors nous voyons apparaitre l’adresse IP de notre application OpenVPN qui est 10.8.0.2/24 et on remarque également en faisant la commande tracert 10.8.0.1 on vois le nombre de temps effectuer pour arriver a notre serveur. Aussi en faisant la commande IP a dans notre server on vois clairement nos deux adresses c’est-à-dire l’adresse IP de notre serveur et l’adresse IP openvpn
 
 ![07](https://user-images.githubusercontent.com/71392439/146164150-412128a2-1b76-4a63-8f41-d4792ed6ebf4.png)

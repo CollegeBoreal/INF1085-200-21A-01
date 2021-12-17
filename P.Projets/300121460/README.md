@@ -28,7 +28,9 @@
 ```
 sudo apt update
 ```
-![Capture d'écran(553)](https://user-images.githubusercontent.com/71392439/146133668-88ee57fe-82b9-4afc-8f15-0c21308b55f3.png)
+![Capture d’écran (553)](https://user-images.githubusercontent.com/71027883/146571308-5c6ebaa5-3cab-42e9-8ce2-600ffdf9efaf.png)
+
+
 
 ## 🐳: References 🐳: :
 

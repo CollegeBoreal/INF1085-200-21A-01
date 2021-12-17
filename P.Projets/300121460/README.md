@@ -98,7 +98,7 @@ sudo mysql -u root -p
 ```
 ![Capture d’écran (607)](https://user-images.githubusercontent.com/71027883/146579985-4dd87e3d-3b9e-4a27-8da3-82f20afc91b5.png)
 
-☑️: Création d'une base de données, utilisation d'une base de données, création de tables, insertion de données dans une table et lecture d'une table.
+☑️: Commande pour la création d'une base de données, utilisation d'une base de données, création de tables, insertion de données dans une table et lecture d'une table.
  ```
  Create Database <Nom Base de Données>;
  ```
@@ -115,6 +115,7 @@ sudo mysql -u root -p
  ```
  Select * From <Nom Table>;
  ```
+![Capture d’écran (609)](https://user-images.githubusercontent.com/71027883/146582598-ebaebd52-9762-4b10-b8e0-7817218f7175.png)
 
 
 

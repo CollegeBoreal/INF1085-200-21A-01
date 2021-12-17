@@ -39,6 +39,14 @@ sudo apt upgrade
 
 ☑️: Commande permettant de mettre en place de LAMP serveur
 
+☑️: LAMP est un acronyme pour Linux, Apache, MySQL, PHP. C'est une pile logicielle comprenant le système d'exploitation, un serveur HTTP, un système de gestion de bases de données et un langage de programmation interprété, et qui permet de mettre en place un serveur web.
+[Linux] : le système d'exploitation, on peut déployer la pile LAMP sur la plupart des distributions GNU/Linux ;
+[Apache] :  le serveur HTTP, il permet au serveur de communiquer avec le navigateur en utilisant le protocole HTTP(S) ;
+[MySQL or Mariadb] : il s'agit d'un serveur de bases de données. Il sert à stocker, à manipuler et à accéder à des listes de données organisées en tableaux. Ce service peut être fournit par le logiciel MySQL ou par MariaDB (fork plus ouvert, plus performant, et 100% compatible MySQL).
+[Perl, Perl or Python] :  PHP est un langage de programmation interprété qui permet de générer du contenu web dynamiquement. Il s'agit la plupart du temps de pages HTML).
+☑️: Pour en savoir plus, référez-vous au lien suivant: ✔:(https://doc.ubuntu-fr.org/lamp)
+
+
 ```
 sudo apt install lamp-server^
 ```
@@ -56,6 +64,13 @@ sudo apt install apache2
 
 ![Capture d’écran (604)](https://user-images.githubusercontent.com/71027883/146575782-953fd215-af68-4c6f-b934-5c636b9d803d.png)
 
+## Etape 4: Installation d'une Base de Données SQL
+
+☑️: On doit commencer par installer Apache serveur sur notre serveur en utilisant la commande:
+
+```
+sudo apt install apache2
+```
 
 
 

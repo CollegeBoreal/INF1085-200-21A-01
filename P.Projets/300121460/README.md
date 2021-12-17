@@ -70,11 +70,54 @@ sudo apt install apache2
 
 ## Etape 4: Installation d'une Base de Données SQL
 
-☑️: On doit commencer par installer Apache serveur sur notre serveur en utilisant la commande:
+☑️: On utilise la commande suivante pour installer Mariadb:
 
 ```
-sudo apt install apache2
+sudo apt install mariadb-server
 ```
+![Capture d’écran (605)](https://user-images.githubusercontent.com/71027883/146578197-fb1d17a4-ae28-4521-af9a-c20cb20be5c7.png)
+
+☑️: On utilise la commande suivante pour vérifier l'état d'activité de Mariadb (Active or Failed):
+
+```
+sudo systemctl status mariadb
+```
+![Capture d’écran (606)](https://user-images.githubusercontent.com/71027883/146578614-177b2603-928b-4a9d-89a7-cd0b79d019ff.png)
+
+☑️: Il est à noter qu'au tout début de l'utilisation de MySQL, le mot de passe est vide. 
+
+☑️: On utilise la commande suivante pour sécuriser notre Base de Données Mariadb en suivant les procédures pour créer un nouveau mot de passe.
+
+```
+sudo mysql_secure_installation
+```
+☑️: Pour accéder à  MariaDB ou MySQL, on utilise la commande suivante et on entre le mot de passe créé durant l'étape précédente.
+
+```
+sudo mysql -u root -p
+```
+![Capture d’écran (607)](https://user-images.githubusercontent.com/71027883/146579985-4dd87e3d-3b9e-4a27-8da3-82f20afc91b5.png)
+
+☑️: Création d'une base de données, utilisation d'une base de données, création de tables, insertion de données dans une table et lecture d'une table.
+ ```
+ Create Database <Nom Base de Données>;
+ ```
+ ```
+ Use <Nom Base de Données>;
+ ```
+
+ ```
+ Create Table <Nom Table>;
+ ```
+ ```
+ Insert Into <Nom Table> (colonne 1, colonne 2, '...', 'colonne n') Values ('donnée 1', 'donnée 2', '...', 'donnée n');
+ ```
+ ```
+ Select * From <Nom Table>;
+ ```
+
+
+
 
 
 
